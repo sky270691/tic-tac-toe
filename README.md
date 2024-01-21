@@ -14,4 +14,4 @@
 - Vaadin
 
 ### Notes
-For the development process, I try to implement hexagonal architecture by utilizing maven multi project build, and yeah I'm not that good at front-end development
+For the development process, I try to implement hexagonal architecture by utilizing maven multi project build, although it's not necessary to do that, but I try to increase the complexity
