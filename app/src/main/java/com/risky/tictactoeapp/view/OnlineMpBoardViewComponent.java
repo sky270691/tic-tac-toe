@@ -69,7 +69,7 @@ public class OnlineMpBoardViewComponent extends VerticalLayout {
             }
         }
 
-        addComponentAsFirst(paragraph);
+        add(paragraph);
         this.turnPrompt = paragraph;
     }
 
