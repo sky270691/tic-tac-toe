@@ -6,7 +6,7 @@
 - generate your game and choose from 2 modes online mode or Single Device Mode and determine the board size between 3 - 12
 - in single device mode you play only in one window / device
 - in Online Mode, share the invitation code you get to your friend
-- Your friend will be able to access the game by input the invitation code in root page (`http://{device-installed-with-this-package-ip}:8080`)
+- Your friend will be able to access the game by input the invitation code in root page (`http://{device-running-this-package-ip}:8080`)
 
 ### Tech stack
 - Java Springboot framework
